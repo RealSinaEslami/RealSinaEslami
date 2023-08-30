@@ -21,7 +21,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="60" height="60" alt="OpenCV" /></a>
   <a href="https:https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/800px-New_Power_BI_Logo.svg.png" width="60" height="60" alt="Power bi" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60" height="60" alt="OpenCV" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/d/mysql_PNG9.png" width="60" height="60" alt="MySQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/d/mysql_PNG22.png" width="60" height="60" alt="MySQL" /></a>
 </p>
     
 ### LinkedIn
