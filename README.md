@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="60" height="65" alt="Jupyter notebook"/>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="120" height="60" alt="SKlearn" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="100" height="60" alt="SKlearn" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="60" height="60" alt="Tensorflow" /></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="60" height="60" alt="Keras" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" width="60" height="60" alt="Pandas" /></a>
