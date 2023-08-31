@@ -6,7 +6,7 @@
 -----------------------------------------------------
 ### Resume
 🔍 Open the link to see my <a href="https://drive.google.com/file/d/1irCm3rAkHxa4pT10_RPC5O6QIAKTXllG/view?usp=sharing">resume📄</a>
-
+-----------------------------------------------------
 ### Skills
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
@@ -25,6 +25,7 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="80" height="60" alt="R" /></a>
 </p>
     
+-----------------------------------------------------
 ### LinkedIn
 <p align="left">
     <a href="https://www.linkedin.com/in/real-sina-eslami">
