@@ -1,16 +1,19 @@
 # Sina Eslami - AI Master's Degree Student 
-### A Curious Data Scientist 📝
+### Curious Data Scientist 📝
 -----------------------------------------------------
 * 💻 Computer Engineer - Machine Learning Programmer expert
 * 📧 Email: sina.eslami.pv@gmail.com
 -----------------------------------------------------
 ### Resume
 🔍 Open the link to see my <a href="https://drive.google.com/file/d/1irCm3rAkHxa4pT10_RPC5O6QIAKTXllG/view?usp=sharing">resume📄</a>
+
 -----------------------------------------------------
 ### Skills
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="60" height="65" alt="Jupyter notebook"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="60" height="60" alt="MySQL" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="80" height="60" alt="R" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="100" height="60" alt="SKlearn" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="60" height="60" alt="Tensorflow" /></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="60" height="60" alt="Keras" /></a>
@@ -21,8 +24,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="60" height="60" alt="OpenCV" /></a>
   <a href="https:https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/800px-New_Power_BI_Logo.svg.png" width="60" height="60" alt="Power bi" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60" height="60" alt="OpenCV" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="60" height="60" alt="MySQL" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="80" height="60" alt="R" /></a>
 </p>
     
 -----------------------------------------------------
