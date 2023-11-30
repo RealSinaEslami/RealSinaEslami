@@ -6,7 +6,7 @@
 * 📧 Verified University Email: sina.eslami@srbiau.ac.ir
 -----------------------------------------------------
 ### Resume
-🔍 Open the link to see my <a href="https://drive.google.com/file/d/1irCm3rAkHxa4pT10_RPC5O6QIAKTXllG/view?usp=sharing">resume📄</a>
+🔍 Open the link to see my <a href="https://drive.google.com/file/d/1-oyDjcmhuZyKDW4KIdntTrKGgND8g3Ny/view?usp=sharing">resume📄</a>
 
 -----------------------------------------------------
 ### Skills
