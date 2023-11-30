@@ -1,14 +1,25 @@
-# Sina Eslami - AI Master's Degree Student 
+# Sina Eslami - AI Master's Degree Student
 ### Curious Data Scientist 📝
 -----------------------------------------------------
 * 💻 Computer Engineer - Machine Learning Programmer expert
 * 📧 Email: sina.eslami.pv@gmail.com
+* 📧 Verified University Email: sina.eslami@srbiau.ac.ir
 -----------------------------------------------------
 ### Resume
 🔍 Open the link to see my <a href="https://drive.google.com/file/d/1irCm3rAkHxa4pT10_RPC5O6QIAKTXllG/view?usp=sharing">resume📄</a>
 
 -----------------------------------------------------
 ### Skills
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning and Neural Networks
+* Image Processing
+* Natural Language Processing
+* Ontology
+* Data Science
+
+-----------------------------------------------------
+### Programming Skills
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="60" height="65" alt="Jupyter notebook"/>
