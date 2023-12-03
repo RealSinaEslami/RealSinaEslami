@@ -1,5 +1,5 @@
 # Sina Eslami - AI Master's Degree Student
-### Curious Data Scientist 📝
+### Curious Self AI Developer in Search Of Intelligence 📝
 -----------------------------------------------------
 * 💻 Computer Engineer - Machine Learning Programmer expert
 * 📧 Email: sina.eslami.pv@gmail.com
