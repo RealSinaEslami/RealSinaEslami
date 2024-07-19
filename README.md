@@ -1,7 +1,7 @@
 # Sina Eslami - AI Master's Degree Student
 ### Curious Self AI Developer in Search Of Intelligence 📝
 -----------------------------------------------------
-* 💻 Computer Engineer - Machine Learning Programmer expert
+* 💻 Computer Engineer - Artificial Intelligent Developer
 * 📧 Email: sina.eslami.pv@gmail.com
 * 📧 Verified University Email: sina.eslami@srbiau.ac.ir
 -----------------------------------------------------
@@ -14,9 +14,12 @@
 * Machine Learning
 * Deep Learning and Neural Networks
 * Image Processing
+* Machine Vision
 * Natural Language Processing
 * Ontology
 * Data Science
+* Data Analysis
+* Algorithm and Data Structure
 
 -----------------------------------------------------
 ### Programming Skills
