@@ -10,15 +10,16 @@
 
 -----------------------------------------------------
 ### Skills
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning and Neural Networks
-* Image Processing
+* Python (Programming Language)
+* Artificial Intelligence (AI)
 * Machine Vision
+* Deep Learning
+* Machine Learning
+* Audio Visual Speech Recognition
+* Neural Networks
+* Image Processing
 * Natural Language Processing
-* Ontology
-* Data Science
-* Data Analysis
+* R (Programming Language)
 * Algorithm and Data Structure
 
 -----------------------------------------------------
