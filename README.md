@@ -1,5 +1,4 @@
-# Sina Eslami - AI Master's Degree Student
-### AI Research Engineer in Search Of Intelligence 📝
+# Sina Eslami - Master of AI Engineering
 -----------------------------------------------------
 * 💻 Computer Engineer - Artificial Intelligent Developer
 * 📧 Email: sina.eslami.pv@gmail.com
@@ -28,7 +27,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="100" height="60" alt="SKlearn" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="60" height="60" alt="Tensorflow" /></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="60" height="60" alt="Keras" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="50" height="60" alt="PyTorch" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="50" height="60" alt="PyTorch" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="60" height="60" alt="Numpy" /></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="60" height="60" alt="Matplotlib" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="60" height="60" alt="Seaborn" /></a>
