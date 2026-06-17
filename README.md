@@ -8,6 +8,9 @@
 * Python (Programming Language)
 * Artificial Intelligence (AI)
 * Machine Vision
+* Large Language Models
+* Vector Databases
+* Docker
 * Deep Learning
 * Machine Learning
 * Audio Visual Speech Recognition
@@ -32,6 +35,11 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1280px-Created_with_Matplotlib-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="60" height="60" alt="Matplotlib" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="60" height="60" alt="Seaborn" /></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="60" height="60" alt="OpenCV" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" width="60" height="60" alt="Pandas" /></a>
+  <a href="https://www.docker.com/home-b/" target="_blank" rel="noreferrer"><img src="https://www.clipartmax.com/png/middle/421-4211389_check-official-docker-logo.png" width="60" height="60" alt="Docker" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="60" height="60" alt="FastAPI" /></a>
+  <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/lmstudio.webp" width="60" height="60" alt="LM Studio" /></a>
+  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" width="60" height="60" alt="Qdrant" /></a>
 </p>
     
 -----------------------------------------------------
