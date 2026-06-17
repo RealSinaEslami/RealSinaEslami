@@ -115,8 +115,8 @@ Qdrant • FastAPI • Docker • LM Studio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  <a href="https://www.dev-cpp.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" />
   </a>
 
   <a href="https://www.r-project.org/" target="_blank">
