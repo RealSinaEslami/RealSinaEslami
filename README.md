@@ -12,7 +12,7 @@ Master’s in Artificial Intelligence Engineering
 
 <p align="center">
 <a href="mailto:sina.eslami.pv@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/real-sina-eslami">LinkedIn</a>
+<a href="https://www.linkedin.com/in/realsinaeslami/">LinkedIn</a>
 </p>
 
 ---
@@ -189,7 +189,7 @@ Qdrant • FastAPI • Docker • LM Studio
 <img src="https://img.shields.io/badge/University_Email-Academic-blue?style=for-the-badge&logo=google-scholar">
 </a>
 
-<a href="https://www.linkedin.com/in/real-sina-eslami">
+<a href="https://www.linkedin.com/in/realsinaeslami/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
