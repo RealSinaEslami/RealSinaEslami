@@ -1,200 +1,218 @@
-<h1 align="center">Sina Eslami</h1>
+# 👋 Hi, I'm Sina Eslami
 
-<h3 align="center">AI Engineer • LLM & RAG Systems • Computer Vision</h3>
+<h3 align="center">
+  AI Engineer | LLM Applications | RAG | Computer Vision
+</h3>
 
 <p align="center">
-Master’s in Artificial Intelligence Engineering
+  <a href="mailto:sina.eslami.pv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/realsinaeslami/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RealSinaEslami">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-📍 Iran • 🤖 AI Engineer • 🔬 Applied & Research AI
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+OCR;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm an **AI Engineer with a Master's degree in Artificial Intelligence Engineering**, passionate about building practical AI systems that solve real-world problems.
+
+My work focuses on developing end-to-end AI applications, from data processing and model fine-tuning to inference APIs and deployment.
+
+- 🧠 **LLMs & Generative AI** — RAG, embeddings, semantic search, and AI agents
+- 👁️ **Computer Vision** — OCR, object detection, and image processing
+- 🎙️ **Multimodal AI** — Audio-visual speech recognition and sequence modeling
+- ⚙️ **AI Engineering** — Python, FastAPI, Docker, and model deployment
+- 🔬 **Applied AI** — Building, experimenting with, and improving practical AI solutions
+
+I'm particularly interested in **LLM-powered applications, agentic workflows, and production-ready AI systems**.
+
+---
+
+## 🛠️ Technical Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LLMs & Generative AI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embeddings-6A5ACD?style=flat-square" />
+        <img src="https://img.shields.io/badge/Semantic_Search-483D8B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector_Databases-008080?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF8C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Agents-2E8B57?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Computer Vision</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OCR-4169E1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Object_Detection-FF6347?style=flat-square" />
+        <img src="https://img.shields.io/badge/Image_Processing-4682B4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep_Learning-9932CC?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Multimodal AI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Lip_Reading-00A896?style=flat-square" />
+        <img src="https://img.shields.io/badge/3D--CNN-20B2AA?style=flat-square" />
+        <img src="https://img.shields.io/badge/BiLSTM-2F4F4F?style=flat-square" />
+        <img src="https://img.shields.io/badge/CTC-778899?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ AI Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/Model_Deployment-555555?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+### 📚 PersianWikiRAG
+**Retrieval-Augmented Generation for Persian Knowledge**
+
+An AI application designed to retrieve relevant information from Persian Wikipedia and generate context-aware answers using an LLM.
+
+- 🔹 Persian text normalization and preprocessing
+- 🔹 Embedding-based semantic retrieval
+- 🔹 Vector search using **Qdrant**
+- 🔹 LLM integration with **Qwen**
+- 🔹 Designed as a foundation for a deployable RAG application
+
+**Tech:** Python · Qdrant · Embeddings · Qwen · RAG
+
+---
+
+### ✍️ Persian Handwritten Text Recognition
+**Fine-tuning TrOCR for Persian Handwriting**
+
+An OCR project focused on adapting a pretrained vision-encoder-decoder model to Persian text recognition.
+
+- 🔹 Fine-tuning Microsoft's pretrained **TrOCR**
+- 🔹 Transfer learning from printed Persian text to handwriting
+- 🔹 Character Error Rate (CER) evaluation
+- 🔹 Persian text normalization and inference pipeline
+
+🔗 [Explore the TrOCR Project](https://github.com/RealSinaEslami/TrOCR)
+
+**Tech:** PyTorch · Hugging Face Transformers · TrOCR · OCR
+
+---
+
+### 🎙️ Audio-Visual Speech Recognition
+**Lip Reading in Multi-Speaker Environments**
+
+A deep learning project for recognizing spoken language from silent video.
+
+- 🔹 3D-CNN for spatiotemporal visual feature extraction
+- 🔹 BiLSTM-based sequence modeling
+- 🔹 Transformer-based components
+- 🔹 Connectionist Temporal Classification (CTC)
+- 🔹 Evaluation using Word Error Rate (WER)
+
+**Tech:** Python · PyTorch · Computer Vision · Deep Learning
+
+---
+
+### 🧾 Persian Check Processing & Recognition
+**Computer Vision for Handwritten Financial Documents**
+
+An applied computer vision pipeline for detecting check regions and recognizing Persian handwritten text.
+
+- 🔹 YOLO-based object detection
+- 🔹 Image cropping and preprocessing
+- 🔹 Persian OCR integration
+- 🔹 Text normalization and similarity-based validation
+
+🔗 [Explore the Project](https://github.com/RealSinaEslami/SayadiCheckDetection)
+
+**Tech:** Python · YOLO · OpenCV · OCR
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,r" alt="Programming languages" />
+</p>
+
+### AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+### Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" alt="Backend and infrastructure" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/LM_Studio-222222?style=for-the-badge" alt="LM Studio" />
+</p>
+
+### Data & Scientific Computing
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" alt="Data science tools" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RealSinaEslami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSinaEslami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
-<a href="mailto:sina.eslami.pv@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/realsinaeslami/">LinkedIn</a>
+  <img src="https://streak-stats.demolab.com?user=RealSinaEslami&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## About Me
+## 📬 Let's Connect
 
-AI Engineer focused on building real-world AI systems and scalable machine learning applications.
-
-Main interests:
-
-- Large Language Models (LLMs) and RAG systems  
-- Vector databases and semantic search  
-- Computer Vision and OCR pipelines  
-- Audio-Visual Speech Recognition (Lip Reading)  
-- AI system design and deployment  
-
----
-
-## Core Expertise
-
-**LLM & NLP**
-- Retrieval-Augmented Generation (RAG)
-- Embedding models
-- Prompt engineering
-- Semantic search systems
-- Vector databases (Qdrant)
-
-**Computer Vision**
-- Image processing pipelines
-- OCR systems
-- Object detection
-- Video understanding
-
-**Audio-Visual AI**
-- Lip reading models
-- Sequence modeling (CTC, BiLSTM, Transformers)
-- Multi-modal learning
-
-**Engineering**
-- FastAPI
-- Docker
-- REST APIs
-- Model deployment
-- Scalable AI systems
-
----
-
-## Featured Projects
-
-### 🧠 PersianWikiRAG
-A full Retrieval-Augmented Generation system over Persian Wikipedia.
-
-- Data cleaning & normalization pipeline  
-- Embedding generation for semantic retrieval  
-- Vector storage using Qdrant  
-- LLM-based response generation (Qwen models)
-
----
-
-### 🎤 Audio-Visual Speech Recognition
-Lip reading system for silent speech recognition.
-
-- 3D-CNN + BiLSTM + Transformer architecture  
-- CTC loss for sequence prediction  
-- Video-based speech understanding  
-
----
-
-### 🚘 Persian License Plate Recognition
-- YOLO-based detection model  
-- OCR pipeline for Persian characters  
-- Real-world image preprocessing  
-
----
-
-### 🧩 perAI
-AI solutions startup focused on custom AI systems.
-
-*“Because every project requires a unique approach.”*
-
----
-
-## Tech Stack
-
-Python • PyTorch • TensorFlow • Scikit-learn • OpenCV  
-NumPy • Pandas • Matplotlib  
-Qdrant • FastAPI • Docker • LM Studio
-
----
-
-## Programming Skills
-
-<p align="left">
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://www.dev-cpp.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" />
-  </a>
-
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" height="50" />
-  </a>
-
-  <a href="https://lmstudio.ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/lmstudio.webp" width="50" height="50" />
-  </a>
-
-  <a href="https://qdrant.tech/" target="_blank">
-    <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" width="50" height="50" />
-  </a>
-
-</p>
-
-## Contact
+I'm interested in AI engineering, applied machine learning, LLM applications, and building useful AI products.
 
 <p align="center">
-
-<a href="mailto:sina.eslami.pv@gmail.com">
-<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="mailto:sina.eslami@srbiau.ac.ir">
-<img src="https://img.shields.io/badge/University_Email-Academic-blue?style=for-the-badge&logo=google-scholar">
-</a>
-
-<a href="https://www.linkedin.com/in/realsinaeslami/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
+  <a href="mailto:sina.eslami.pv@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email" />
+  </a>
+  <a href="mailto:sina.eslami@srbiau.ac.ir">
+    <img src="https://img.shields.io/badge/Academic_Email-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic email" />
+  </a>
+  <a href="https://www.linkedin.com/in/realsinaeslami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile
+  <i>Building practical AI, one project at a time.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
 </p>
